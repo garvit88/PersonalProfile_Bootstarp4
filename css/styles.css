@@ -1,0 +1,30 @@
+#about img{
+   height: 100%;
+   width: 100%;
+   margin: 0;
+}
+footer {
+   background: #333;
+   color: #eee;
+   font-size: 13px;
+   padding: 20px;
+}
+#footerNavigation {
+   padding-left: 50px;
+}
+ul.unstyled {
+   list-style: none;
+   padding: 0;
+}
+#socialMedia h6 {
+   padding-left: 50px;
+}
+#socialMedia li {
+   display: inline;
+   padding: 0;
+}
+#socialMedia img {
+   padding: 5px;
+}
+
+
